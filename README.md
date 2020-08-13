@@ -41,30 +41,30 @@
   * Then, using a mathematic formulae, find the percentage of projects which were successful, failed, or were canceled per goal range.
   * Create a line chart which graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
 ## Report
-1. **What are three conclusions we can make about Kickstarter campaigns given the provided data?**
+ 1. **What are three conclusions we can make about Kickstarter campaigns given the provided data?**
    
-  •	Kickstarter projects are more likely to be successful (53.11%)  than to fail (37.6%) or get cancelled (8.6%). From the below graph, we see that Kickstarters in music (77%), theatre (60%), film and video (58%), have the highest success rates and food (17%), games (36%), technology(35%) and publishing(34%) have the lowest success rates. Technology projects get canceled about a third of the time, when we look at the projects that reached completion only fifty percent are successful. Also, the projects in journalism get canceld all the time. 
+  * 	Kickstarter projects are more likely to be successful (53.11%)  than to fail (37.6%) or get cancelled (8.6%). From the below graph, we see that Kickstarters in music (77%), theatre (60%), film and video (58%), have the highest success rates and food (17%), games (36%), technology(35%) and publishing(34%) have the lowest success rates. Technology projects get canceled about a third of the time, when we look at the projects that reached completion only fifty percent are successful. Also, the projects in journalism get canceld all the time. 
 ![png](Images/img1.png)
- •	From the image below we can see which subcategories are the most successful. When we look at the subcategory that were completed ( successful or unsuccessful), we have subcategories with a hundred percent success rate: classical music, documentary, electronic music, hardware, metal, non-fiction, pop, radio and podcasts, rock, shorts, small batch, table top games, and television. We also have subcategories that were a hundred percent unsuccessful: animation, children’s books, drama, faith, fiction, food trucks, gadgets, jazz, mobile games, nature, people, places,restaurants, translations, videogames and web.We can also see that the sub category plays is most prominent. 
+* 	From the image below we can see which subcategories are the most successful. When we look at the subcategory that were completed ( successful or unsuccessful), we have subcategories with a hundred percent success rate: classical music, documentary, electronic music, hardware, metal, non-fiction, pop, radio and podcasts, rock, shorts, small batch, table top games, and television. We also have subcategories that were a hundred percent unsuccessful: animation, children’s books, drama, faith, fiction, food trucks, gadgets, jazz, mobile games, nature, people, places,restaurants, translations, videogames and web.We can also see that the sub category plays is most prominent. 
 ![png](Images/img2.png)
- •	From the graph below we see that the number of successful projects has decreased significantly and the gap between successful and faied projects narrows down. In the month of December, we see that both intersect and the failed surpasses the successful projects for the first time.
+* 	From the graph below we see that the number of successful projects has decreased significantly and the gap between successful and faied projects narrows down. In the month of December, we see that both intersect and the failed surpasses the successful projects for the first time.
 ![png](Images/img3.png)
  2. **What are some of the limitations of this dataset?**
 
- •	In the introduction it was said that only a third of Kickstarter campaigns make it through funding with positive outcomes, but this database shows that more than half of the programs selected are successful.
-•	There dataset is not large enough for all categories and subcategories, so some of the results are not statistically relevant. We need to figure out how statistically significant these results are.
-•	We need to analyze a variety of crowdsourcing companies to draw more significant insights. 
-•	There are several outliers in the funding goal.
-•	There are not any metrics that describe the success of each industry/category/sub-category as a whole.
+ * 	In the introduction it was said that only a third of Kickstarter campaigns make it through funding with positive outcomes, but this database shows that more than half of the programs selected are successful.
+* 	There dataset is not large enough for all categories and subcategories, so some of the results are not statistically relevant. We need to figure out how statistically significant these results are.
+* 	We need to analyze a variety of crowdsourcing companies to draw more significant insights. 
+* 	There are several outliers in the funding goal.
+* 	There are not any metrics that describe the success of each industry/category/sub-category as a whole.
 
   
-3. **What are some other possible tables/graphs that we could create?**
+ 3. **What are some other possible tables/graphs that we could create?**
 
-•	Graphs with and without “plays” (the most popular category).
-•	We can analyze the projects by the duration of conversion.
-•	If we analyst the data by states, we can see which states have kickstarter with more success rate than other.
-•	We can create graphs/tables for most successful categories vs unsuccessful category.
-•	Graphs and displays that break up each category into its specific subcategories to uncover what makes different types of organizations successful
-•	It would be interesting to analyze the projects by the duration of conversion using the date created conversion and date ended conversion. Maybe there is a trend to see what separates the duration of successful and unsuccessful projects. 
-•	It would be helpful if we could get more info on the metric “successful”.
+* 	Graphs with and without “plays” (the most popular category).
+* 	We can analyze the projects by the duration of conversion.
+* 	If we analyst the data by states, we can see which states have kickstarter with more success rate than other.
+* 	We can create graphs/tables for most successful categories vs unsuccessful category.
+* 	Graphs and displays that break up each category into its specific subcategories to uncover what makes different types of organizations successful
+* 	It would be interesting to analyze the projects by the duration of conversion using the date created conversion and date ended conversion. Maybe there is a trend to see what separates the duration of successful and unsuccessful projects. 
+* 	It would be helpful if we could get more info on the metric “successful”.
 
